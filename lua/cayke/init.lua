@@ -5,7 +5,7 @@ require("cayke.lsp")
 
 require("mason").setup()
 
-require("cayke.themes.test")
+require("cayke.bubbles")
 -- require("lualine").setup {
 --     options = {
 --         theme = "base16",
